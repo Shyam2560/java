@@ -1,0 +1,9 @@
+Class VarDay1{
+    Public Static Void Main (String arg[]){
+	
+	  int num1= 5;
+	  int num2= 7;
+	  System.out.println(num1+num2);
+	  
+	}
+}
